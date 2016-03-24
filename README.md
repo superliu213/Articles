@@ -11,22 +11,23 @@ GitHub MarkDown语法与实例
 =
 中标题
 -
-#一级标题
-##二级标题
-###三级标题
-####四级标题
-#####五级标题
-######六级标题
+
+# 一级标题
+## 二级标题
+### 三级标题
+#### 四级标题
+##### 五级标题
+###### 六级标题
 ##显示文本
 1.普通文本
   直接输入的文字就是普通文本，换行使用\<br><br>
 2.单行文本
   使用两个Tab<br>
-		Hello World！
+>Hello World！<br>
 3.多行文本
   在每行行首加两个Tab
-		Hello World!
-		MarkDown
+>Hello World!
+>MarkDown
 
 Visit https://github.com
 
