@@ -21,3 +21,11 @@
 Thank `You` . Please `Call` Me `Coder`
 
 [百度](http://www.baidu.com "悬停显示")
+
+* 昵称：果冻虾仁
+* 别名：隔壁老王
+* 英文名：Jelly
+
+* 编程语言
+    * 脚本语言
+        * Python
